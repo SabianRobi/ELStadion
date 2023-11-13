@@ -1,0 +1,67 @@
+/* NAVBAR */
+nav {
+  border-bottom: 1px solid black;
+}
+
+nav li a, nav li span {
+  font-weight: bold;
+  border-radius: 2px;
+}
+
+nav li:hover span {
+  cursor: pointer;
+}
+
+nav li:hover span {
+  background-color: #97d996;
+}
+.nav-item:hover {
+  border-radius: 2px;
+  background-color: #97d996;
+}
+
+#dropdownList {
+  background-color: #c8ffc7;
+}
+
+/* BORÍTÓKÉP */
+#borito {
+  float: left;
+  margin: 0;
+  height: 40vh;
+  width: 100%;
+  min-height: 150px;
+  max-height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: 20% 40%;
+  background-image: linear-gradient(to bottom, transparent 50%, #c8ffc7), url("../img/goal.jpg"); 
+}
+
+.kozepre {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.content {
+  padding: 1rem;
+  padding-bottom: 10vh;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: justify;
+}
+
+h2 {
+  padding-top: 5vh;
+}
+
+html body {
+  background-color: #c8ffc7;
+}
+
+.content a:hover {
+  text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
+}
+
+html {
+  overflow-x: hidden;
+}

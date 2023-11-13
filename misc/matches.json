@@ -1,0 +1,170 @@
+{
+    "61bf98ed42f0e": {
+        "home": "61bf972b74079",
+        "homeScore": "1",
+        "away": "61bf955e755fe",
+        "awayScore": "2",
+        "date": "2021-12-08T19:00",
+        "id": "61bf98ed42f0e"
+    },
+    "61bf9915b7555": {
+        "home": "61bf972b74079",
+        "homeScore": "8",
+        "away": "61bf980728922",
+        "awayScore": "2",
+        "date": "2021-11-29T20:00",
+        "id": "61bf9915b7555"
+    },
+    "61bf9937067a6": {
+        "home": "61bf977a1e807",
+        "homeScore": "4",
+        "away": "61bf955e755fe",
+        "awayScore": "2",
+        "date": "2021-12-12T12:00",
+        "id": "61bf9937067a6"
+    },
+    "61bf99ba3f45a": {
+        "home": "61bf977a1e807",
+        "homeScore": "1",
+        "away": "61bf980728922",
+        "awayScore": "4",
+        "date": "2021-11-13T19:45",
+        "id": "61bf99ba3f45a"
+    },
+    "61c0c20c17697": {
+        "home": "61bf945f9495c",
+        "homeScore": null,
+        "away": "61bf93b9d5244",
+        "awayScore": null,
+        "date": "2022-12-20T20:45",
+        "id": "61c0c20c17697"
+    },
+    "61c0c2a95ce5c": {
+        "home": "61bf93b9d5244",
+        "homeScore": null,
+        "away": "61bf972b74079",
+        "awayScore": null,
+        "date": "2022-12-22T23:00",
+        "id": "61c0c2a95ce5c"
+    },
+    "61c23690ac54a": {
+        "home": "61bf980728922",
+        "homeScore": null,
+        "away": "61bf93b9d5244",
+        "awayScore": null,
+        "date": "2023-07-13T12:15",
+        "id": "61c23690ac54a"
+    },
+    "61c47e3be2280": {
+        "home": "61bf93b9d5244",
+        "homeScore": null,
+        "away": "61bf980728922",
+        "awayScore": null,
+        "date": "2022-04-29T11:00",
+        "id": "61c47e3be2280"
+    },
+    "61c47e6448689": {
+        "home": "61bf945f9495c",
+        "homeScore": null,
+        "away": "61bf972b74079",
+        "awayScore": null,
+        "date": "2022-04-10T10:00",
+        "id": "61c47e6448689"
+    },
+    "61c47ef495d10": {
+        "home": "61bf977a1e807",
+        "homeScore": null,
+        "away": "61bf955e755fe",
+        "awayScore": null,
+        "date": "2022-03-18T18:00",
+        "id": "61c47ef495d10"
+    },
+    "61c48020ab60a": {
+        "home": "61bf977a1e807",
+        "homeScore": "9",
+        "away": "61bf955e755fe",
+        "awayScore": "3",
+        "date": "2021-10-10T10:15",
+        "id": "61c48020ab60a"
+    },
+    "61c5027f0ec66": {
+        "home": "61bf93b9d5244",
+        "homeScore": "2",
+        "away": "61bf980728922",
+        "awayScore": "5",
+        "date": "2021-09-28T12:00",
+        "id": "61c5027f0ec66"
+    },
+    "61c50290a33b8": {
+        "home": "61bf945f9495c",
+        "homeScore": "0",
+        "away": "61bf977a1e807",
+        "awayScore": "0",
+        "date": "2021-09-14T20:00",
+        "id": "61c50290a33b8"
+    },
+    "61c502a428c3b": {
+        "home": "61bf955e755fe",
+        "homeScore": "2",
+        "away": "61bf972b74079",
+        "awayScore": "2",
+        "date": "2021-09-09T09:00",
+        "id": "61c502a428c3b"
+    },
+    "61c502e31755a": {
+        "home": "61bf93b9d5244",
+        "homeScore": "3",
+        "away": "61bf972b74079",
+        "awayScore": "2",
+        "date": "2021-10-14T08:00",
+        "id": "61c502e31755a"
+    },
+    "61c5031fddb17": {
+        "home": "61bf955e755fe",
+        "homeScore": "4",
+        "away": "61bf93b9d5244",
+        "awayScore": "2",
+        "date": "2021-09-13T13:15",
+        "id": "61c5031fddb17"
+    },
+    "61c50700726c8": {
+        "home": "61bf955e755fe",
+        "homeScore": null,
+        "away": "61bf977a1e807",
+        "awayScore": null,
+        "date": "2023-01-05T07:00",
+        "id": "61c50700726c8"
+    },
+    "61bf972b74079": {
+        "home": "61bf93b9d5244",
+        "homeScore": "2",
+        "away": "61bf980728922",
+        "awayScore": "5",
+        "date": "2021-09-28T11:00",
+        "id": "61bf972b74079"
+    },
+    "61c6fdafecaad": {
+        "home": "61bf945f9495c",
+        "homeScore": "2",
+        "away": "61bf955e755fe",
+        "awayScore": "2",
+        "date": "2021-10-18T15:45",
+        "id": "61c6fdafecaad"
+    },
+    "61c6fdc01fe4c": {
+        "home": "61bf93b9d5244",
+        "homeScore": "3",
+        "away": "61bf977a1e807",
+        "awayScore": "5",
+        "date": "2021-10-17T15:30",
+        "id": "61c6fdc01fe4c"
+    },
+    "61c6fdf854662": {
+        "home": "61bf945f9495c",
+        "homeScore": "1",
+        "away": "61bf977a1e807",
+        "awayScore": "1",
+        "date": "2021-10-09T10:15",
+        "id": "61c6fdf854662"
+    }
+}

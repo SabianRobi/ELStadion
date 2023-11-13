@@ -1,0 +1,85 @@
+{
+    "61bdd54fa953f": {
+        "username": "admin",
+        "email": "admin@elstadion.hu",
+        "password": "$2y$10$yzYndr8Eh\/CghvelN7kMi.jWwncOr79p3spypa7K55rE9jWoaJQGS",
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "favourites": {
+            "8": "61bf945f9495c",
+            "9": "61bf955e755fe",
+            "10": "61bf980728922",
+            "11": "61bf972b74079",
+            "12": "61bf93b9d5244",
+            "13": "61bf977a1e807"
+        },
+        "id": "61bdd54fa953f"
+    },
+    "61bfa4495ed7f": {
+        "username": "Robi",
+        "email": "g2ms35@inf.elte.hu",
+        "password": "$2y$10$KIGtJlegEA6lRwAORxyYfuAXcyq4GWWQ3VRUm5LmoP3dJdggak5nO",
+        "roles": [
+            "user"
+        ],
+        "favourites": [],
+        "id": "61bfa4495ed7f"
+    },
+    "61c24e71bc920": {
+        "username": "Trixi",
+        "email": "benkucsbeatrix@gmail.com",
+        "password": "$2y$10$4RWbJ9FPk6ZtRTx\/P2VqteQiWVpS34Hi3TuLwHjdKj1r4KLQPWnZ6",
+        "roles": [
+            "user"
+        ],
+        "favourites": [],
+        "id": "61c24e71bc920"
+    },
+    "61c482507577f": {
+        "username": "asd",
+        "email": "a@s.d",
+        "password": "$2y$10$FlWLA\/eiNDtuy6wwG\/XhreNwtzpf\/nalus.fWbLDXCd4nflXI4HI6",
+        "roles": [
+            "user"
+        ],
+        "favourites": [],
+        "id": "61c482507577f"
+    },
+    "61c6fca8e4665": {
+        "username": "a",
+        "email": "a@b.c",
+        "password": "$2y$10$s4C.2CUuLZ9UGhs4fIZaeeN\/QXEgEyNlhIm5dFj4BAHItKi8hdMpO",
+        "roles": [
+            "user"
+        ],
+        "favourites": [],
+        "id": "61c6fca8e4665"
+    },
+    "61c747c10d8ba": {
+        "username": "B\u00e9la",
+        "email": "a@b.c",
+        "password": "$2y$10$NqFN.r3NF9XZBDQzjAmK6uLEvMfMok0VIUynGubEilavK4eP.r46q",
+        "favourites": {
+            "1": "61bf945f9495c"
+        },
+        "roles": [
+            "user"
+        ],
+        "id": "61c747c10d8ba"
+    },
+    "635671808f2e5": {
+        "username": "teszt",
+        "email": "a.b@c.d",
+        "password": "$2y$10$9KIaFEzxgIXnbVj64VOrpeQM.zptqibDgVNZXzLPvs5P.Faujh3a.",
+        "favourites": {
+            "0": "61bf93b9d5244",
+            "2": "61bf977a1e807"
+        },
+        "roles": [
+            "user"
+        ],
+        "id": "635671808f2e5"
+    }
+}
